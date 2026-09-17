@@ -1,0 +1,10 @@
+{
+  "name": "Weather App",
+  "description": "Real-time weather conditions, 5-day forecast, hourly trends, dynamic weather visuals, and search history.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
